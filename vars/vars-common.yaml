@@ -1,0 +1,6 @@
+#####################################################
+# Print common variables for debugging              #
+#####################################################
+
+steps:
+- script: echo "Common variables..."
